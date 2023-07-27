@@ -1,0 +1,5 @@
+test_run_dir/*
+build/*
+target/*
+project/*
+*.dSYM/
